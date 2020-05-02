@@ -1,11 +1,6 @@
 Hello from AN
 
-<<<<<<< Updated upstream
-Second change
-=======
 Second change 2020
-
 
 Now I am adding more text for stash.
 Text intended for master branch gets inserted in 2020 branch.
->>>>>>> Stashed changes
